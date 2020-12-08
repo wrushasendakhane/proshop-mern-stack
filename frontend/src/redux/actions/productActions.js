@@ -135,7 +135,6 @@ export const listTopProducts = () => async (dispatch) => {
   try {
     dispatch({ type: ProductActionTypes.PRODUCT_TOP_REQUEST })
     const { data } = await axios.get('/api/products/top')
-    console.log(data)
     dispatch({ type: ProductActionTypes.PRODUCT_TOP_SUCCESS, payload: data })
   } catch (error) {
     dispatch({
