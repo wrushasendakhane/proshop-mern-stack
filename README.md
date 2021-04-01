@@ -13,7 +13,7 @@ Build a ecommerce using MERN (Mongo Express React Node) stack
   "express": "^4.17.1", \
   "express-async-handler": "^1.1.4", \
   "jsonwebtoken": "^8.5.1", \
-  "mongoose": "^5.11.3", \
+  "mongoose": "^5.11.3", 
 
 # node js packages used in frontend react app
   "axios": "^0.21.0",     \
@@ -23,7 +23,7 @@ Build a ecommerce using MERN (Mongo Express React Node) stack
   "react-router-bootstrap": "^0.25.0", \
   "react-router-dom": "^5.2.0",     \
   "redux": "^4.0.5",   \
-  "redux-thunk": "^2.3.0",   \
+  "redux-thunk": "^2.3.0",   
   
 ### Reference Udemy cource
 https://www.udemy.com/course/mern-ecommerce/
