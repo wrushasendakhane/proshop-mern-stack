@@ -1,7 +1,7 @@
 # proshop-mern-stack
 
 ### Links
-https://proshop-mern-stack.herokuapp.com/ \
+https://proshop-mern-stack.herokuapp.com/ 
 
 ### Learning Curve
 Build a ecommerce using MERN (Mongo Express React Node) stack
